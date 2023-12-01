@@ -2,7 +2,7 @@
 cccc
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans......////////,,,,,,mmmllllcccc,,,,,,,,....cccffffffcccccdddd................../////,,,x;////,...
 vvvvv...,,,,....kkkknnncccc
-## Try me!,.;;;lllffghgyhyrgsd  cccc
+## Try me!,.;;;lllffghgyhyrgsd  ccccvvvg
 ;;;;;;
 ```wwwww...........dddd
 brew tap srcclr/srcclr
