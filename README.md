@@ -1,7 +1,7 @@
 # [:] Example Node Project
 cccc
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans......////////,,,,,,mmmllllcccc,,,,,,,,....cccffffffcccccdddd................../////,,,x;////,...
-vvvvv...,,,,....kkkknnncccc
+vvvvv...,,,,....kkkknnncccccfff
 ## Try me!,.;;;lllffghgyhyrgsd  ccccvvvg
 ;;;;;;
 ```wwwww...........dddd
