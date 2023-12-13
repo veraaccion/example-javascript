@@ -8,7 +8,7 @@ vvvvv...,,,,....kkkknnncccccfff zdsfssed
 brew tap srcclr/srcclrccckjnlkpjsdwezczc
 brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg
 srcclr activatemnnm.....
-srcclr scan --url https://github.com/srcclr/example-javascrip.....cccccc,//kj;l
+srcclr scan --url https://github.com/srcclr/example-javascrip.....cccccc,//kj;lcvdffdfd
 ```.......,,,,,,cccccccccvvvnmn fcvjlnln;k
 jnklj
 dgrfgb
