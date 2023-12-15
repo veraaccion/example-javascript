@@ -5,7 +5,7 @@ vvvvv...,,,,....kkkknnncccccfff zdsfssed
 ## Try me!,.;;;lllffghgyhyrgsd  ccccvvvgccccadadwd
 ;;;;;;,mmvvvv
 ```wwwww...........ddddcccccxxxxxbbbb bmjkhfdcfsm,bjdsd,m cczc
-brew tap srcclr/srcclrccckjnlkpjsdwezczc,m.kkbl
+brew tap srcclr/srcclrccckjnlkpjsdwezczc,m.kkblsfvfve
 brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg,;ldwdwedzccszdcdswe
 srcclr activatemnnm.....vvvgflljjlbmvzcz
 ```.......,,,,,,cccccccccvvvnmn fcvjlnln;kxd.,fs
