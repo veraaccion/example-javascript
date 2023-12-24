@@ -8,7 +8,7 @@ vvvvv...,,,,....kkkknnncccccfff zdsfssed
 brew tap srcclr/srcclrccckjnlkpjsdwezczc,m.kkblsfvfvevxdbfcbfhlkm;llkmnkkkm,;kmnklmxdffef
 brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg,;ldwdwedzccszdcdswecsdfrwm,mjjjlk;vfcdcc.,;lcferfelml
 srcclr activatemnnm.....vvvgflljjlbmvzczvcxx......
-```.......,,,,,,cccccccccvvvnmn fcvjlnln;kxd.,fsasafxxf/,.;k'mlwdwerwf;l'w
+```.......,,,,,,cccccccccvvvnmn fcvjlnln;kxd.,fsasafxxf/,.;k'mlwdwerwf;l'w,mllnm
 jnklj,nl ;km.n,mdfvdfcd l,,,,l,.,,,cv dv
 dgrfgbkljn
 ,ml'
