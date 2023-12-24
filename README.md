@@ -9,7 +9,7 @@ brew tap srcclr/srcclrccckjnlkpjsdwezczc,m.kkblsfvfvevxdbfcbfhlkm;llkmnkkkm,;kmn
 brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg,;ldwdwedzccszdcdswecsdfrwm,mjjjlk;vfcdcc.,;lcferfelml
 srcclr activatemnnm.....vvvgflljjlbmvzczvcxx......
 ```.......,,,,,,cccccccccvvvnmn fcvjlnln;kxd.,fsasafxxf/,.;k'mlwdwerwf;l'w
-jnklj,nl ;km.n,mdfvdfcd l,,,,l,.,,,
+jnklj,nl ;km.n,mdfvdfcd l,,,,l,.,,,cv dv
 dgrfgbkljn
 ,ml'
 lk;m
