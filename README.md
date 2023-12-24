@@ -6,7 +6,7 @@ vvvvv...,,,,....kkkknnncccccfff zdsfssed
 ;;;;;;,mmvvvvdcsccccsd
 ```wwwww...........ddddcccccxxxxxbbbb bmjkhfdcfsm,bjdsd,m cczcadccsjnk;adccl;k
 brew tap srcclr/srcclrccckjnlkpjsdwezczc,m.kkblsfvfvevxdbfcbfhlkm;llkmnkkkm,;kmnklm
-brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg,;ldwdwedzccszdcdswecsdfrwm,mjjjlk;vfcdcc.,;lcferfelml;k
+brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg,;ldwdwedzccszdcdswecsdfrwm,mjjjlk;vfcdcc.,;lcferfelml;kkkknnn.....
 srcclr activatemnnm.....vvvgflljjlbmvzczvcxx
 ```.......,,,,,,cccccccccvvvnmn fcvjlnln;kxd.,fsasafxxf/,.;k'mlwdwerwf;l'w
 jnklj,nl ;km.n,mdfvdfcd 
