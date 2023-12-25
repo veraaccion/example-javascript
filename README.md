@@ -3,7 +3,7 @@ cccc////
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans......////////,,,,,,mmmllllcccc,,,,,,,,....cccffffffcccccdddd...    xcd...........,.;....///ccc//,,,x;////,...dcdddd////sdcfv  m,,kl,///mmmmmlllxsss...nnnnncccc....sdss
 vvvvv...,,,,....kkkknnncccccfff zdsfssedm;kml' ;m
 ## Try me!,.;;;lllffghgyhyrgsd  ccccvvvgccccadadwdsfvfKJBJKN
-;;;;;;,mmvvvvdcsccccsdmljl
+;;;;;;,mmvvvvdcsccccsdmljlm,;
 ```wwwww...........ddddcccccxxxxxbbbb bmjkhfdcfsm,bjdsd,m mmmm
 brew tap srcclr/srcclrccckjnlkpjsdwezczc,m.kkblsfvfvevxdbfcbfhlkm;llkmnkkkm,;kmnklmxdffefdgrtghfdf
 brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg,;ldwdwedzccszdcdswecsdfrwm,mjjjlk;vfcdcc.,;lcferfelml;lk;kmmlk
