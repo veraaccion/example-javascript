@@ -4,7 +4,7 @@ An example node project to demonstrate [srcclr](https://www.srcclr.com) scans...
 vvvvv...,,,,....kkkknnncccccfff zdsfssedm;kml' ;m
 ## Try me!,.;;;lllffghgyhyrgsd  ccccvvvgccccadadwdsfvfKJBJKN
 ;;;;;;,mmvvvvdcsccccsdmljlm,;
-```wwwww...........ddddcccccxxxxxbbbb bmjkhfdcfsm,bjdsd,m mmmm
+```wwwww...........ddddcccccxxxxxbbbb bmjkhfdcfsm,bjdsd,m mmmmlknm;k
 brew tap srcclr/srcclrccckjnlkpjsdwezczc,m.kkblsfvfvevxdbfcbfhlkm;llkmnkkkm,;kmnklmxdffefdgrtghfdf
 brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg,;ldwdwedzccszdcdswecsdfrwm,mjjjlk;vfcdcc.,;lcferfelml;lk;kmmlk
 srcclr activatemnnm.....vvvgflljjlbmvzczvcxx......m,.km,///,,/
