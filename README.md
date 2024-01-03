@@ -6,7 +6,7 @@ vvvvv...,,,,....kkkknnncccccfff zdsfssedm;kml' ;mchbcsj
 ;;;;;;,mmvvvvdcsccccsdmljlm,;
 ```wwwww...........ddddcccccxxxxxbbbb bmjkhfdcfsm,bjdsd,m mmmmlknm;klklkmsfsfdrfce
 brew tap srcclr/srcclrccckjnlkpjsdwezczc,m.kkblsfvfvevxdbfcbfhlkm;llkmnkkkm,;kmnklmxdffefdgrtghfdfgtrtewerfe
-brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg,;ldwdwedzccszdcdswecsdfrwm,mjjjlk;vfcdcc.,;lcferfelml;lk;kmmlkccfsdfclk;xcdcsddscsdcscdwedwekjnl;loppokp.,;km
+brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg,;ldwdwedzccszdcdswecsdfrwm,mjjjlk;vfcdcc.,;lcferfelml;lk;kmmlkccfsdfclk;xcdcsddscsdcscdwedwekjnl;loppokp.,;kmln
 srcclr activatemnnm.....vvvgflljjlbmvzczvcxx......m,.km,///,,/m, l,/,;'xfefvefv;;l,'aedwcwcwhyystydtvdgd
 ```.......,,,,,,cccccccccvvvnmn fcvjlnln;kxd.,fsasafxxf/,.;k'mlwdwerwf;l'w,mllxcvfdfbfdgd.,/,'l,,;',.;ll;fgyftsddsddswsdsdcssdsdvvccfs.,m. .kml;
 jnklj,nl ;km.n,mdfvdfcd l,,,,l,.,,,cv dvxfsrwfcdm,., ml'omk;m'jollkm;l'sfvvfnbljdfbdaerbscfdcfvfv;kmk;L
