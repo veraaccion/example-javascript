@@ -10,7 +10,7 @@ brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg,;ldwdwedzccszdcdswecsdfrwm
 srcclr activatemnnm.....vvvgflljjlbmvzczvcxx......m,.km,///,,/m, l,/,;'xfefvefv;;l,'aedwcwcwhyystydtvdgd
 ```.......,,,,,,cccccccccvvvnmn fcvjlnln;kxd.,fsasafxxf/,.;k'mlwdwerwf;l'w,mllxcvfdfbfdgd.,/,'l,,;',.;ll;fgyftsddsddswssd
 jnklj,nl ;km.n,mdfvdfcd l,,,,l,.,,,cv dvxfsrwfcdm,., ml'omk;m'jollkm;l'sfvvfnbljdfbdaerbscfdcfvfv;kmk;L
-dgrfgbkljngbbfgfgndvfgrerebhjlkl;m.,l;adccdsdsc
+dgrfgbkljngbbfgfgndvfgrerebhjlkl;m.,l;adccdsdscsfdf
 ,ml'm.;'l;cbh/,m;lmcvxfv  v clkk;mlk;mll;l;ldscsdc
 lk;mLJN;M;;Kj,.k;ml'sdwcw
 hjlkllk;mjkblkvdadvv
