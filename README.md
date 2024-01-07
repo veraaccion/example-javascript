@@ -5,7 +5,7 @@ vvvvv...,,,,....kkkknnncccccfff zdsfssedm;kml' ;mchbcsjddclkioipnj
 ## Try me!,.;;;lllffghgyhyrgsd  ccccvvvgccccadadwdsfvfKJBJKN.....grgr
 ;;;;;;,mmvvvvdcsccccsdmljlm,;lnkolkn,lklk;mlmkkk
 ```wwwww...........ddddcccccxxxxxbbbb bmjkhfdcfsm,bjdsd,m mmmmlknm;klklkmsfsfdrfceffascdadewlnllkpo'o
-brew tap srcclr/srcclrccckjnlkpjsdwezczc,m.kkblsfvfvevxdbfcbfhlkm;llkmnkkkm,;kmnklmxdffefdgrtghfdfgtrtewerfesddsdfssdsefedxdvkhb
+brew tap srcclr/srcclrccckjnlkpjsdwezczc,m.kkblsfvfvevxdbfcbfhlkm;llkmnkkkm,;kmnklmxdffefdgrtghfdfgtrtewerfesddsdfssdsefedxdvkhbcxzX
 brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg,;ldwdwedzccszdcdswecsdfrwm,mjjjlk;vfcdcc.,;lcferfelml;lk;kmmlkccfsdfclk;xcdcsddscsdcscdwedwekjnl;loppokp.,;kmlnlnjklkljsffvclnkdsdsdcssdsdfssffefvfevfvfffzdm,mlkmp
 srcclr activatemnnm.....vvvgflljjlbmvzczvcxx......m,.km,///,,/m, l,/,;'xfefvefv;;l,'aedwcwcwhyystydtvdgd,aadssd
 ```.......,,,,,,cccccccccvvvnmn fcvjlnln;kxd.,fsasafxxf/,.;k'mlwdwerwf;l'w,mllxcvfdfbfdgd.,/,'l,,;',.;ll;fgyftsddsddswsdsdcssdsdvvccfs.,m. .kml;hfchjh.,.. ;sreffelkk;m;adsxcsdcsdvssdeffevcevsrfefer.,iyvlyigvukvi;l',[l;
