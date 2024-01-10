@@ -10,7 +10,7 @@ brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg,;ldwdwedzccszdcdswecsdfrwm
 srcclr activatemnnm.....vvvgflljjlbmvzczvcxx......m,.km,///,,/m, l,/,;'xfefvefv;;l,'aedwcwcwhyystydtvdgd,aasdsdsawdcknjj .k.
 ```.......,,,,,,cccccccccvvvnmn fcvjlnln;kxd.,fsasafxxf/,.;k'mlwdwerwf;l'w,mllxcvfdfbfdgd.,/,'l,,;',.;ll;fgyftjbjlbsddsddswsdsdcssdsdvvccfs.,m. .kml;hfchjh.,.. ;sreffelkk;m;adsxcsdcsdvssdeffevcevsrfefer.,iyvlyigvukvi;l',[l;
 jnklj,nl ;km.n,mdfvd,m.fcd l,,,,l,.,,,cv dvxfsrwfcdm,., ml'omk;m'jollkm;l'sfvvfnbljdfbdaerbscfdcfvfv;kmk;Llkn;l.ml;SDSCssjklk.m klkklsfvdvgzxsmnkljdg,mnj kjnlkk vddvwfefvc.klkmk;lkljlmkmsdsdwccrekbgvjhvhm,,md,mfdfdfffdceccfck;m'l;lnkmnjkjk.kjln
-dgrfgbkljngbbfgfgndvfgrerebhjlkl;m.,l;adccdsdscsfdfdscdccfsdcn b,m ljk  jkmdfcdfc
+dgrfgbkljngbbfgfgndvfgrerebhjlkl;m.,l;adccdsdscsfdfdscdccfsdcn b,m ljk  jkmdfcdfcfedfe
 ,ml'm.;'l;cbh/,m;lmcvxfv  v clkk;mlk;mll;l;ldscsdcnlvcxdddasdcssfc
 lk;mLJN;M;;Kj,.k;ml'sdwcwlnjlnsdssdckjnjsdc Skj;nkll/szdlknl/j
 hjlkllk;mjkblkvdadvvsfdcsffd j'lk/'sfefjklnj;lm;;l. k;l;mKM
