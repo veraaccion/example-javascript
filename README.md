@@ -3,7 +3,7 @@ cccc////wewdcd
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans......////////,,,,,,mmmllllcccc,,,,,,,,....cccffffffcccccdddd...    xcd...........,.;....///ccc//,,,x;////,...dcdddd////sdcfv ...lk hjgvbh.mk;m;km,,kl,///mmmmmlllxsss...nnnnncccc....sdssddsDCdswe
 vvvvv...,,,,....kkkknnncccccfff zdsfssedm;kml' ;mchbcsjddclkioipnjsfvexcdfafds
 ## Try me!,.;;;lllffghgyhyrgsd  ccccvvvgccccadadwdsfvfKJBJKN.....grgrdsdc sdvd
-;;;;;;,mmvvvvdcsccccsdmljlm,;lnkolkn,lklk;mlmkkkdscscdjhkilyiujvhjkhljjnnnlksdsc
+;;;;;;,mmvvvvdcsccccsdmljlm,;lnkolkn,lklk;mlmkkkdscscdjhkilyiujvhjkhljjnnnlksdscddsx
 ```wwwww...........ddddcccccxxxxxbbbb bmjkhfdcfsm,bjdsd,m mmmmlknm;klklkmsfsfdrfceffascdadewlnllkpo'osdrwweedcdslknkl
 brew tap srcclr/srcclrccckjnlkpjsdwezczc,m.kkblsfvfvevxdbfcbfhlkm;llkmnkkkm,;kmnklmxdffefdgrtghfdfgtrtewerfesddsdfssdsefedxdvkkhjhbcxzXdscsc,lk;ljk
 brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg,;ldwdwedzccszdcdswecsdfrwm,mjjjlk;vfcdcc.,;lcferfelml;lk;kmmlkccfsdfclk;xcdcsddscsdcscdwedwekjnl;loppok jkhgp.,;kmlnlnjklkljsffvclnkdsdsdcssdsdfssffefvfevfvfffzdm,mlkmp
