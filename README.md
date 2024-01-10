@@ -4,7 +4,7 @@ An example node project to demonstrate [srcclr](https://www.srcclr.com) scans...
 vvvvv...,,,,....kkkknnncccccfff zdsfssedm;kml' ;mchbcsjddclkioipnjsfvexcdfafds
 ## Try me!,.;;;lllffghgyhyrgsd  ccccvvvgccccadadwdsfvfKJBJKN.....grgrdsdc sdvd
 ;;;;;;,mmvvvvdcsccccsdmljlm,;lnkolkn,lklk;mlmkkkdscscdjhkilyiujvhjkhljjnnnlksdscddsx
-```wwwww...........ddddcccccxxxxxbbbb bmjkhfdcfsm,bjdsd,m mmmmlknm;klklkmsfsfdrfceffascdadewlnllkpo'osdrwweedcdslknkl
+```wwwww...........ddddcccccxxxxxbbbb bmjkhfdcfsm,bjdsd,m mmmmlknm;klklkmsfsfdrfceffascdadewlnllkpo'osdrwweedcdslknklcdff
 brew tap srcclr/srcclrccckjnlkpjsdwezczc,m.kkblsfvfvevxdbfcbfhlkm;llkmnkkkm,;kmnklmxdffefdgrtghfdfgtrtewerfesddsdfssdsefedxdvkkhjhbcxzXdscsc,lk;ljk
 brew install srcclrmmm,,,,xxxxxcxcccxxcs,,,,,,fgbbhtg,;ldwdwedzccszdcdswecsdfrwm,mjjjlk;vfcdcc.,;lcferfelml;lk;kmmlkccfsdfclk;xcdcsddscsdcscdwedwekjnl;loppok jkhgp.,;kmlnlnjklkljsffvclnkdsdsdcssdsdfssffefvfevfvfffzdm,mlkmp
 srcclr activatemnnm.....vvvgflljjlbmvzczvcxx......m,.km,///,,/m, l,/,;'xfefvefv;;l,'aedwcwcwhyystydtvdgd,aasdsd
