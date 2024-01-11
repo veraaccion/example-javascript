@@ -2,7 +2,7 @@ aaddadccccc# [:] Example Node Project
 cccc////wewdcd
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans......////////,,,,,,mmmllllcccc,,,,,,,,....cccffffffcccccdddd...    xcd...........,.;....///ccc//,,,x;////,...dcdddd////sdcfv ...lk ghccg mfhhjgvbh.mk;m;km,,kl,///mmmmmlllxsss...nnnnncccc....sdssddsDCdswe.,kllknnk;hkj,
 vvvvv...,,,,....kkkknnncccccfff zdsfssedm;kml' ;mchbcsjddclkioipnjsfvexcdfafdsmnljnsdsm,b,j
-## Try me!,.;;;lllffghgyhyrgsd  ccccvvvgccccadadwdsfvfKJBJKN.....grgrdsdc sdvd
+## Try me!,.;;;lllffghgyhyrgsd  ccccvvvgccccadadwdsfvfKJBJKN.....grgrdsdc sdvddxs
 ;;;;;;,mmvvvvdcsccccsdmljlm,;lnkolkn,lklk;mlmkkkdscscdjhkilyiujvhjkhljjnnnlksdscddsxddv jnkl;m;:MKadscdacd
 ```wwwww...........ddddcccccxxxxxbbbb bmjkhfdcfsm,bjdsd,m mmmmlknm;klklkmsfsfdrfceffascdadewlnllkpo'osdrwweedcdslknklcdffdsscadcscdsdscsdkj;jno;jklk/klnjlkkm;
 brew tap dxsdcjlbsrcclr/srcclrccckjnlkpjsdwezczc,m.kkblsfvfvevxdbfcbfhlkm;llkmnkkkm,;kmnklmxdffefdgrtghfdfgtrtewerfesddsdfssdsefedxdvkkhjhbcxzXdscsc,lk;ljkdfcsxsnksdd/jkhgp.,sddcd;kmlnscwelnjklkadccljsffvclnkdsdsdcssdsdfssffefvfevfvfffzdm,mlkmpxcds
